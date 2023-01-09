@@ -35,3 +35,23 @@
     background-color: #abd1c6;
     padding: 20px;
   }
+footer:hover{
+color: yellow;
+}
+nav{
+position: sticky;
+top: 0;
+}
+aside{
+position: fixed;
+bottom: 30px;
+right: 50px;
+}
+main>section{
+text-align: center;
+}
+section > button:active{
+background-color: green;
+}
+
+
